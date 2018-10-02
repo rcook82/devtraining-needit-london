@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="cmn_schedule_maintenance">
+    <cmn_schedule_maintenance action="INSERT_OR_UPDATE">
+        <applies_to>change_request</applies_to>
+        <condition table="change_request">cmdb_ci=affd3c8437201000deeabfc8bcbe5dc3^EQ<item display_table="cmdb_ci" display_value="*BETH-IBM" endquery="false" field="cmdb_ci" goto="false" newquery="false" operator="=" or="false" value="affd3c8437201000deeabfc8bcbe5dc3"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <description/>
+        <document/>
+        <document_key/>
+        <name>test</name>
+        <parent/>
+        <read_only>false</read_only>
+        <source>change_request</source>
+        <sys_class_name>cmn_schedule_maintenance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-18 08:44:43</sys_created_on>
+        <sys_id>fc9e3cfa372823004ff8ea4873990e78</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>test</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>cmn_schedule_maintenance_fc9e3cfa372823004ff8ea4873990e78</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-18 08:46:11</sys_updated_on>
+        <time_zone/>
+        <type>maintenance</type>
+    </cmn_schedule_maintenance>
+</record_update>

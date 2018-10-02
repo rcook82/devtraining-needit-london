@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="cmn_schedule_blackout">
+    <cmn_schedule_blackout action="INSERT_OR_UPDATE">
+        <applies_to>cmdb_ci_service</applies_to>
+        <condition/>
+        <description/>
+        <document/>
+        <document_key/>
+        <name>Saturday Test</name>
+        <parent/>
+        <read_only>false</read_only>
+        <source>cmdb_ci_service</source>
+        <sys_class_name>cmn_schedule_blackout</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-18 08:16:11</sys_created_on>
+        <sys_id>e308f0ba37e423004ff8ea4873990eda</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Saturday Test</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>cmn_schedule_blackout_e308f0ba37e423004ff8ea4873990eda</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-18 08:17:18</sys_updated_on>
+        <time_zone/>
+        <type>blackout</type>
+    </cmn_schedule_blackout>
+</record_update>
